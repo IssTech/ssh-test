@@ -3,7 +3,7 @@
 #  SSH Test Loop Script
 #  Created by IssTech
 #  Version 1.0
-#  Licencing, please read the LICENSE.md
+#  Licencing, please read the LICENSE
 #  Documentation, please read README.md
 # ***************************************
 
